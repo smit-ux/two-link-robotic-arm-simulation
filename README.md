@@ -1,4 +1,4 @@
-# Two-Link Robotic Arm Simulation
+# Two-Link Robotic Arm following Circular Trajectory
 
 This repository contains a simulation of a two-link robotic manipulator tracking a circular trajectory. The simulation demonstrates the use of inverse kinematics for joint angle calculations and forward kinematics for visualizing the motion.
 
