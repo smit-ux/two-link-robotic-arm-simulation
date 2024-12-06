@@ -16,6 +16,8 @@ This repository contains a simulation of a two-link robotic manipulator tracking
    - **Forward Kinematics**: Computes the position of the end-effector and links based on joint angles.
 3. **Real-Time Simulation**: Animates the manipulator as it follows the trajectory.
 
+ ![Simulation Preview](assets/simulation.gif)
+
 ## Requirements
 
 - Python 3.7 or later
